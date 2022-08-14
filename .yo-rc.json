@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.jamal.payment.management"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "PaymentManagement",
+    "packageName": "com.jamal.payment.management",
+    "packageFolder": "com/jamal/payment/management",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MjUxNWVlNzAwNWI5NWQwYmRkZDY2NGI4MmMyOGIxZDE5NTExZTUwMDYwMWFhYzU0ZTQ5ZDY3MTdmODFlNGU0YzM2MGY2Mjk0YWNiYTM1MDAwZjRhOWUzZWE2MzMzNDI3NGMzNWNjMWRhYWU4MDI2OTQwN2E1NjUzMmMyZGU2Yjg=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "creationTimestamp": 1660335178506,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
